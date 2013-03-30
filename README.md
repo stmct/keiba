@@ -12,3 +12,4 @@ Usage
     k.get_uma_links(denma_id)
 
 
+(c) 2013 stmct
