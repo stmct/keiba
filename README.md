@@ -3,6 +3,10 @@ Overview
 
 Get 競馬 data from Yahoo!スポーツ.
 
+Install
+=======
+
+
 Usage
 =====
 
