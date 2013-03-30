@@ -1,7 +1,7 @@
 Overview
 ========
 
-Get keiba data from Yahoo!スポーツ.
+Get 競馬 data from Yahoo!スポーツ.
 
 Usage
 =====
