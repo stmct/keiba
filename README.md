@@ -1,6 +1,8 @@
 keiba
 =====
 
+Get keiba data from Yahoo!スポーツ.
+
 Usage
 =====
 
